@@ -1,0 +1,4 @@
+pylast==3.2.1
+pylistenbrainz==0.2.1
+python-dotenv==0.13.0
+requests==2.23.0
